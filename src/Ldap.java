@@ -51,6 +51,9 @@ public class Ldap {
 		}
 
 	}
+	public void add(){
+		
+	}
 	public static void main(String[] args){
 		
 		String url = "ldap://192.168.17.118:389";
